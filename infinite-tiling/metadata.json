@@ -1,0 +1,9 @@
+{
+    "name": "Infinite Tiling",
+    "description": "Tiles windows on an infinite 2D canvas that scrolls horizontally and vertically without bounds.",
+    "version": "1.0.0",
+    "author": "KWin Infinite Tiling",
+    "type": "Script",
+    "main": "contents/code/main.js",
+    "defaultEnabled": true
+}

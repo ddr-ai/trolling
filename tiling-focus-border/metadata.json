@@ -1,0 +1,9 @@
+{
+    "name": "Tiling Focus Border",
+    "description": "Draws a thin highlight border around the active window. Companion effect to the Infinite Tiling script.",
+    "version": "1.0.0",
+    "author": "KWin Infinite Tiling",
+    "type": "Effect",
+    "main": "main.qml",
+    "defaultEnabled": true
+}

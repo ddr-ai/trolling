@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=KWin Infinite Tiling Wheel Bridge
+Comment=Forwards mouse-wheel events over the desktop to the Infinite Tiling KWin script (X11 only)
+Exec=python3 %h/.local/bin/kwin-infinite-tiling-wheel.py
+Terminal=false
+Categories=Utility;
+X-KDE-autostart-after=kwin
+X-GNOME-Autostart-enabled=true
+NoDisplay=true
